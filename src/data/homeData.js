@@ -1,4 +1,4 @@
-// SỬA: images → assets ở tất cả các dòng import
+
 import imgGiaoHangNhanh from "../assets/giaohangnhanh.jpg";
 import imgSanPhamChonLoc from "../assets/sanphamchonloc.jpg";
 import imgThietKeQuaTheoNganSach from "../assets/thietkequatheongansach.jpg";
@@ -14,7 +14,6 @@ import logoIg from "../assets/logoig.jpg";
 import logoZalo from "../assets/logozalo.jpg";
 import logoYt from "../assets/logoyt.jpg";
 
-// Phần còn lại GIỮ NGUYÊN 100%
 export const NAV_ITEMS = ["Trang Chủ", "Giới Thiệu", "Sản Phẩm", "Ưu Đãi Tết", "Liên Hệ"];
 
 export const FEATURES = [

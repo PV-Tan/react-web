@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import logo from "../assets/logo.jpg";  // Chỉ sửa images → assets
+import logo from "../assets/logo.jpg";  
 import { NAV_ITEMS } from "../data/homeData";
 
 export default function Navbar() {
